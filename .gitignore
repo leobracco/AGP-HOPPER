@@ -1,0 +1,32 @@
+# Node modules y paquetes npm
+node_modules/
+npm-debug.log
+
+# Dependencias del proyecto
+plugins/
+platforms/
+
+
+# Configuraciones locales
+local.properties
+.idea/
+.vscode/
+
+# Archivos de sistemas operativos
+.DS_Store
+Thumbs.db
+
+# Archivos específicos de PhoneGap/Cordova
+.cordova/
+.sourcemaps/
+.res/
+
+# Carpetas de cache
+.cache/
+.history/
+.ionide/
+
+# Archivos de configuración específicos del entorno de desarrollo
+*.log
+*.swp
+*.swo
